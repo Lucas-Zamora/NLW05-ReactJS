@@ -2,6 +2,11 @@
 
 Projeto Podcastr/Podcastrnext realizado durante o NLW#05 da Rocketseat!
 
+Preparando o ambiente:
+- Node + NPM
+- Yarn
+- Visual Studio Code
+
 Visão geral do código:
 ![reactjs](https://user-images.githubusercontent.com/78884190/115906161-8cf8ad80-a43d-11eb-880c-34b9b4c06fd8.png)
 
